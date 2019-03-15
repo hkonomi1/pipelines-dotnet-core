@@ -1,3 +1,5 @@
+[![Build Status](https://hkonomi.visualstudio.com/Dummy1/_apis/build/status/Dummy1-CI%20(1)?branchName=master)](https://hkonomi.visualstudio.com/Dummy1/_build/latest?definitionId=3&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see docs for [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
